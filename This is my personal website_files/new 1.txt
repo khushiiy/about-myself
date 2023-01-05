@@ -1,0 +1,19 @@
+<html><head>
+
+   <title>This is my personal website</title>
+
+
+
+   </head>
+         <body>
+		<i><center> <p>hii i'm </p><p></p></center></i>
+     <h1><i><center>khushii yadav</center></i></h1>
+	
+	 <center><img src=studentgirl.jpg" alt="IMAGE" g="height=&quot;40&quot;" width="50"></center>
+	 <p>A BCA Student</p>
+       
+
+
+
+
+</body></html>
